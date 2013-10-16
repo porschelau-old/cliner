@@ -11,9 +11,7 @@ All your code goes into the app directory. Generally you want to put your busine
 
 The command: php cliner.php [controller] [action] [argv0....]
 
-will maps to 
-
-[controller]::[action](argv0....);
+will maps to [controller]::[action](argv0....);
 
 Name Convention
 ===================
