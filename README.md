@@ -9,9 +9,9 @@ Setup
 ===================
 All your code goes into the app directory. Generally you want to put your business logic in the controller folder. 
 
-The command: php cliner.php [controller] [action] [argv0....]
+The command: <pre><code>php cliner.php [controller] [action] [argv0....]</code></pre>
 
-will maps to [controller]::[action](argv0....);
+will maps to <pre><code>Controller::Action(argv....)</code></pre>
 
 Name Convention
 ===================
