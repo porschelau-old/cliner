@@ -21,7 +21,7 @@ class BaseController {
 	 * Template function that will get class at the clean up phase of the application
 	 * life cycle.
 	 */
-	public function clean() {
+	public function cleanup() {
 	
 	}
 }
